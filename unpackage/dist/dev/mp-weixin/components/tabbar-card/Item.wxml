@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleClick']]]]}}" class="containers data-v-7aee5c4f" bindtap="__e"><image src="{{imgpath}}" mode class="data-v-7aee5c4f"></image><view class="item data-v-7aee5c4f">{{''+text+''}}</view></view>

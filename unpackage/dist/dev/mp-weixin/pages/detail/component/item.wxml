@@ -1,0 +1,1 @@
+<view class="container" style="{{'background:'+(background)+';'}}"><view class="left"><view class="left1">{{''+text1+''}}</view><view class="left2">{{''+text2+''}}</view><view class="left3" style="{{'background:'+(buttonBgc)+';'}}">{{''+text3+'>'}}</view></view><view class="right"><image src="{{path}}" mode></image></view></view>

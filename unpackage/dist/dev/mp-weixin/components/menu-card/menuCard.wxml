@@ -1,0 +1,1 @@
+<view class="container"><block wx:for="{{menuList}}" wx:for-item="item" wx:for-index="__i0__"><item vue-id="{{'b57ceaaa-1-'+__i0__}}" text="{{item.text}}" path="{{item.path}}" bind:__l="__l"></item></block></view>

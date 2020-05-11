@@ -1,0 +1,1 @@
+<view class="container" style="{{'background:'+(backgroundColor)+';'}}"><view class="left"><view class="left1">{{''+title+''}}</view><view class="left2">{{''+desc+''}}</view></view><view class="right"><image src="{{path}}" mode></image></view></view>

@@ -1,0 +1,1 @@
+<view class="containers"><image src="{{path}}" mode></image><view class="text">{{''+text+''}}</view></view>

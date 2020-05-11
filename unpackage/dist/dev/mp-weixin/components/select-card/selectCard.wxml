@@ -1,0 +1,1 @@
+<view class="container"><block wx:for="{{selectList}}" wx:for-item="item" wx:for-index="__i0__"><view data-event-opts="{{[['tap',[['handleClick',['$0'],[[['selectList','',__i0__,'id']]]]]]]}}" class="{{['item',(current==item.id)?'add':'']}}" bindtap="__e">{{''+item.name+''}}<block wx:if="{{current==item.id}}"><view class="shows"></view></block></view></block></view>

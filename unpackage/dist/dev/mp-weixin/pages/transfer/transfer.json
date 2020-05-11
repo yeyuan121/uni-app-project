@@ -1,0 +1,13 @@
+{
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "menu": "/components/menu-card/menuCard",
+    "item": "/pages/detail/component/item",
+    "select-tab": "/components/select-card/selectCard",
+    "message-item": "/pages/transfer/component/Message",
+    "pickers": "/pages/transfer/component/Picker",
+    "nav": "/components/navbar-card/Navbar",
+    "tabbar": "/components/tabbar-card/Tabbar",
+    "time-head": "/components/timeHeader-card/TimeCard"
+  }
+}

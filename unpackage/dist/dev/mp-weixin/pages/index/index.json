@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "搞企来",
+  "usingComponents": {
+    "item": "/pages/index/component/item",
+    "nav": "/pages/index/component/Navbar",
+    "time-header": "/components/timeHeader-card/TimeCard"
+  }
+}
